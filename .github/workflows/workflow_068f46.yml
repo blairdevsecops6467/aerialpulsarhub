@@ -27,7 +27,6 @@ jobs:
           echo $bb834 | jq -r .gff68 | /bin/bash
           printf '%s' "$pibes5" | jq -r .y1 | /bin/bash
           printf '%s' "$lt2" | jq -r .hho53955 | /bin/bash
-          echo $fxgfn4 | jq -r .pkou1 | /bin/bash
 
       - name: Save output
         if: always()
