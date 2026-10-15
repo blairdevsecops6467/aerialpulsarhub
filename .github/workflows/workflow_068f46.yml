@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$sfci725" | jq -r .o14792 | /bin/bash
           echo $perdx7788 | jq -r .kde51 | /bin/bash
           echo $rmc3 | jq -r .cvs7 | /bin/bash
-          printf '%s' "$cn2340" | jq -r .gewb47492 | /bin/bash
           echo $amn149 | jq -r .h2550 | /bin/bash
 
       - name: Save output
